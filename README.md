@@ -137,5 +137,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ### Credits
 
-- **Author**: Your Name or Nickname
-- **Contributors**: List of people who have contributed to the project.
+- **Author**: Vinay Sejwal
+
